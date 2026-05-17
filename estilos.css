@@ -1,1 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 60px;
+}
 
+.login-box {
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+  width: 180px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
